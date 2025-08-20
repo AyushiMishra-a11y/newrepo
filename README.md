@@ -1,3 +1,3 @@
 # newrepo
 First Git-Repo
-By Ayu
+By Ayushi Mishra
